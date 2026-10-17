@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vaexio/vaex/commit/65ab46281939e2fd2fc291266bb08a328ff59882",
       "git:hexsha": "65ab46281939e2fd2fc291266bb08a328ff59882",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/vaexio/vaex/commit/708a4e7a060c2894ab9258468b7cd9327d8546cd",
